@@ -41,9 +41,9 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 ---
 
 ## Easy CTF
-- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
+- [ ] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
       
-- [x] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
+- [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
 - [ ] [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
   
@@ -51,29 +51,29 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
   
 - [ ] [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
   
-- [x] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
+- [ ] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
   
 - [ ] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
 
-- [x] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
+- [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [x] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
-- [x] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+- [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
 - [ ] [🕵️ TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
   
 - [ ] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
 
-- [x] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
+- [ ] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
   
 - [ ] [🕵️ TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/room/tryhack3mbricksheist)
   
 - [ ] [🕵️ TryHackMe | Creative](https://tryhackme.com/room/creative)
 
-- [x] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
+- [ ] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
   
 - [ ] [🕵️ TryHackMe | Probe](https://tryhackme.com/room/probe) **🚨 no longer free.**
   
@@ -89,7 +89,7 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
   
 - [ ] [🕵️ TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
   
-- [x] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
+- [ ] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
   
 - [ ] [🕵️ TryHackMe | Grep](https://tryhackme.com/room/greprtp) **🚨 no longer free.**
   
@@ -97,7 +97,7 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
   
 - [ ] [🕵️ TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline) **🚨 no longer free.**
   
-- [x] [🕵️ TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
+- [ ] [🕵️ TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
   
 - [ ] [🕵️ TryHackMe | Flip](https://tryhackme.com/room/flip)
   
@@ -121,21 +121,21 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
   
 - [ ] [🕵️ TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker) Medium
   
-- [x] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
+- [ ] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-- [x] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+- [ ] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
 - [ ] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-- [x] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [ ] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-- [x] [🕵️ TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
+- [ ] [🕵️ TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
 - [ ] [🕵️ TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-- [x] [🕵️ TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+- [ ] [🕵️ TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
 - [ ] [🕵️ TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
@@ -147,11 +147,11 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-- [x] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
+- [ ] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [ ] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
 
-- [x] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
+- [ ] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
 - [ ] [🕵️ TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
@@ -161,7 +161,7 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
-- [x] [🕵️ TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [ ] [🕵️ TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
 - [ ] [🕵️ TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
@@ -169,11 +169,11 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-- [x] [🕵️ TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
+- [ ] [🕵️ TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
 - [ ] [🕵️ TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
-- [x] [🕵️ TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
+- [ ] [🕵️ TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
 
 - [ ] [🕵️ TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
@@ -197,7 +197,7 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-- [x] [🕵️ TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
+- [ ] [🕵️ TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
 - [ ] [🕵️ TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
@@ -205,9 +205,9 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-- [x] [🕵️ TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [ ] [🕵️ TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-- [x] [🕵️ TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+- [ ] [🕵️ TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
 - [ ] [🕵️ TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd) Medium
 
@@ -227,9 +227,9 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
-- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 
 ## Medium CTF
 
@@ -578,21 +578,21 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 ## Linux Fundamentals
 
-- [x] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 no longer free.**
  
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 no longer free.**
 
 ## Windows Fundamentals
 
-- [x] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
   
-- [x] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
   
-- [x] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -886,19 +886,19 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
-- [x] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [ ] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
-- [x] [🕵️ TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
+- [ ] [🕵️ TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
-- [x] [🕵️ TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+- [ ] [🕵️ TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 
-- [x] [🕵️ TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
+- [ ] [🕵️ TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
 - [ ] [🕵️ TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
-- [x] [🕵️ TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [ ] [🕵️ TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-- [x] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) ..................................................[**Write Up**](https://0xfke.github.io/posts/dunkle-materie/)
+- [ ] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) ..................................................[**Write Up**](https://0xfke.github.io/posts/dunkle-materie/)
 
 ## PrivEsc
 
@@ -952,9 +952,9 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 
 - [ ] [🕵️ TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 
-- [ ] [[🕵️ TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
+- [ ] [🕵️ TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
 
-- [ ] [[🕵️ TryHackMe | Breaching Active Directory](https://tryhackme.com/room/breachingad)
+- [ ] [🕵️ TryHackMe | Breaching Active Directory](https://tryhackme.com/room/breachingad)
   
 - [ ] [🕵️ TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
   
