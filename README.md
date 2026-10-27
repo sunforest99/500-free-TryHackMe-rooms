@@ -41,25 +41,25 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 ---
 
 ## Easy CTF
-- [ ] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
+- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
 - [ ] [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
   
-- [ ] [🕵️ TryHackMe | U.A. High School](https://tryhackme.com/room/yueiua)
+- [x] [🕵️ TryHackMe | U.A. High School](https://tryhackme.com/room/yueiua)
   
-- [ ] [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
+- [x] [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
   
 - [ ] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
   
-- [ ] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
+- [x] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
 
 - [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
 - [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
-- [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
+- [x] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
 - [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
